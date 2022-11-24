@@ -1,4 +1,6 @@
-### Olá! Eu sou a Beatriz Amorim 👋
+<div align="left">
+  <h2>Olá! Eu sou a Beatriz Amorim 👋 </h2>
+ </div>
 <div align="center">
   <a href="https://github.com/beatrizamorinn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizamorinn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -19,6 +21,6 @@
   <a href = "bia_amorinn2@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatrizamorinn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/beatrizamorinn/beatrizamorinn/blob/output/github-contribution-grid-snake.svg)
  
 </div>
