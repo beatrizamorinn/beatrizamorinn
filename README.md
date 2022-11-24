@@ -19,7 +19,7 @@
    <h3>APREENDENDO 📖</h3>
   <img align="center" alt="Bia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://discord.com/811b2974-fdc0-4014-94e3-2a661dd6fac6">
+  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="img.png">
 
 </div>  
   
