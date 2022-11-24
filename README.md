@@ -3,8 +3,8 @@
  
 <div align="center">
   <a href="https://github.com/beatrizamorinn">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=beatrizamorinn&langs_count=7&theme=dracula"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizamorinn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatrizamorinn&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizamorinn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
  
